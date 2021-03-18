@@ -1,0 +1,30 @@
+ul {
+  background-color: black;
+  font-size: 18px;
+  list-style: none;
+  padding-left: 2px;
+  line-height: 40px;
+}
+
+li {
+  display: inline;
+  padding: 10px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+p {
+  column-width: 400px;
+  column-fill: balance;
+  column-rule: 2px solid black;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-bottom: 1px;
+}
